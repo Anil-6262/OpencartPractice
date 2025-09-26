@@ -1,0 +1,40 @@
+17:24:50.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:26:58.473 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:26:59.260 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml
+
+17:30:15.661 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:30:16.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml
+
+17:33:50.117 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:33:50.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml
+
+17:37:49.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:38:07.993 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+17:38:09.363 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+17:38:11.101 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+17:38:11.130 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Provide customer details *****
+17:38:18.368 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message... *****
+17:38:18.458 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:38:22.716 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:38:27.617 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:21:00.061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+18:21:08.037 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:21:09.361 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:21:10.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:21:10.613 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Provide customer details *****
+18:21:16.938 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message... *****
+18:21:17.119 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:21:21.117 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:21:25.857 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:32:51.026 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+18:32:56.423 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:32:56.708 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:32:57.349 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:32:57.355 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Provide customer details *****
+18:33:01.101 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message... *****
+18:33:01.209 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:33:05.479 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:33:07.940 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****

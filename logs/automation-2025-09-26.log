@@ -1,0 +1,52 @@
+18:33:22.890 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:33:23.018 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:33:25.777 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:33:25.958 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:33:26.561 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:33:26.564 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Provide customer details *****
+18:33:29.514 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message... *****
+18:33:29.565 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:37:36.740 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:37:37.687 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:37:37.871 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:37:38.133 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:37:41.628 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:37:41.808 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:37:42.583 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:37:42.595 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Provide customer details *****
+18:37:45.693 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message... *****
+18:37:45.760 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:40:40.148 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:40:40.329 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:40:40.724 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+18:40:40.729 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Provide customer details *****
+18:40:44.182 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message... *****
+18:40:44.222 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:40:46.871 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:40:48.641 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+19:47:11.933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml"
+19:47:12.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml
+
+19:56:56.781 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml"
+19:56:57.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml
+
+20:01:02.094 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml"
+20:01:02.499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml
+
+20:02:24.581 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:02:25.015 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Click on My Account info *****
+20:02:37.177 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+20:03:27.173 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml"
+20:03:27.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml
+
+20:04:08.771 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml"
+20:04:09.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\grid-docker.xml
+
+17:18:59.608 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:20:40.282 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
+17:23:19.043 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Eclipse BackUp1\MyWorkSpace\PracticeAnil1\master.xml"
